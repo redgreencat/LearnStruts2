@@ -7,7 +7,6 @@
 <form action="userAction" method="post">
     用户名：<input type="text" name="user.username">
     密码：<input type="password" name="user.password">
-    再输入一次：<input type="password">
     生日：<input type="date" name="user.birthday">
     性别：<select name="user.sex">
         <option value="boy">男</option>
