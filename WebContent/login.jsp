@@ -9,8 +9,8 @@
     密码：<input type="password" name="user.password">
     生日：<input type="date" name="user.birthday">
     性别：<select name="user.sex">
-        <option value="boy">男</option>
-        <option value="girl">女</option>
+        <option value="男">男</option>
+        <option value="女">女</option>
     </select>
     <select name="user.hobby">
         <option>篮球</option>
